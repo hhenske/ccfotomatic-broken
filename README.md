@@ -4,6 +4,8 @@
 
 ## To do
 Add accessibility features:
--use semantic tags instead of divs
--add alt comments for photos
--Add Aria arguments in tags
+<ul>
+<li>use semantic tags instead of divs</li>
+<li>add alt comments for photos</li>
+<li>Add Aria arguments in tags</li>
+</ul>
